@@ -27,5 +27,7 @@ const calculateAverage = function(number1, number2, number3){
 };
 
 console.log(calculateAverage(251, 160, 550));
+console.log(calculateAverage(35, 40, 95));
+
 
 
